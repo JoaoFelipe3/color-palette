@@ -29,7 +29,8 @@ Hex ← ⌅(÷255⋕₁₆↯3_2|♭≡(⬚⌞@0↯¤2°□)°⋕₁₆⁅×255)
 
 Colors!(
   Grayscale
-  ⊃($GHexes≡°Hex|&ims/≡⊂≡(↯30_30_3))
+  ⊃(&s$GHexes≡°Hex|/≡⊂≡(↯30_30_3))
   Reds_Oranges_Yellows_Greens_Teals_Blues_Purples_Pinks_Accents
-  ⊃($Hexes≡₁°Hex|&ims/⊂≡/≡⊂≡₁(↯30_30_3))
+  ⊃(&s$Hexes≡₁°Hex|/⊂≡/≡⊂≡₁(↯30_30_3))
 )
+&ims ˜⊂≡▽˜◡(÷∩⧻₁) ⇌⤸1
